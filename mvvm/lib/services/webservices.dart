@@ -7,7 +7,7 @@ class Webservice {
 
   Future<List<Ipl>> fetchMovies(String keyword) async {
 
-    final url = "https://api.myjson.com/bins/s5pvk";
+    final url = "https://testapi.io/api/Gayathri/iplteam";
     final response = await http.get(url);
     if(response.statusCode == 200) {
 
