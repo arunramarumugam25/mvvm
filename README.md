@@ -9,4 +9,5 @@ Refers to the data model of the application
 Refers to the screens
 ## View Model
 Refers to the logic part
+
 <img src="https://github.com/arunramarumugam25/mvvm/blob/master/IPL%20TEAM.jpeg" width="300" height="600" />
